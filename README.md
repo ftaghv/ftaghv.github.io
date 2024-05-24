@@ -1,7 +1,7 @@
 # A Large-Scale Dataset for Wildfire Detection Using HPWREN Database
 
 
-| Video # | Link to the Video |
+| Video # | Link to the Data  |
 |:-------:|-------------------|
 |    1    | [20160619-FIRE-lp-e-iqeye](https://github.com/ftaghv/ftaghv.github.io/tree/main/Dataset/20160619-FIRE-lp-e-iqeye) |
 |    2    | [20160619-FIRE-pi-s-mobo-c](https://github.com/ftaghv/ftaghv.github.io/tree/main/Dataset/20160619-FIRE-pi-s-mobo-c) |
