@@ -2,10 +2,11 @@
 
 
 | Video # | Link to the Video |
-|---------|-------------------|
+|:-------:|-------------------|
 |    1    | [20160619-FIRE-lp-e-iqeye](https://github.com/ftaghv/ftaghv.github.io/tree/main/Dataset/20160619-FIRE-lp-e-iqeye) |
 |    2    | [20160619-FIRE-pi-s-mobo-c](https://github.com/ftaghv/ftaghv.github.io/tree/main/Dataset/20160619-FIRE-pi-s-mobo-c) |
 |    3    | [20160718-FIRE-lp-n-iqeye](https://github.com/ftaghv/ftaghv.github.io/tree/main/Dataset/20160718-FIRE-lp-n-iqeye) |
+
 
 
 
