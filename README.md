@@ -1,10 +1,12 @@
 # A Large-Scale Dataset for Wildfire Detection Using HPWREN Database
 
 
-| Video Name      | Column 2 Header | 
-|-----------------|-----------------|
-| Row 1, Col 1    | Row 1, Col 2    |
-| Row 2, Col 1    | Row 2, Col 2    |
+| Video Name | Link to the Video |
+|------------|-------------------|
+| Video 1    | [Link to Video 1](https://www.example.com/video1) |
+| Video 2    | [Link to Video 2](https://www.example.com/video2) |
+| Video 3    | [Link to Video 3](https://www.example.com/video3) |
+
 
 
 # Website License
