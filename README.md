@@ -3,7 +3,7 @@
 
 | Video Name |     Link to the Video     |
 |------------|---------------------------|
-|            | 20160619-FIRE-lp-e-iqeye  |
+|            | [20160619-FIRE-lp-e-iqeye] (https://github.com/ftaghv/ftaghv.github.io/tree/main/Dataset/20160619-FIRE-lp-e-iqeye)  |
 |            | 20160619-FIRE-pi-s-mobo-c |
 |            | 20160718-FIRE-lp-n-iqeye  |
 |            | 20160718-FIRE-mg-s-iqeye  |
